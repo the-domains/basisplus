@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8602151
+color:
+  saturation: 0.4480205
+  lightness: 0.4582444
+  brandStrength: 0.4723187
+  brandColors:
+    - '#000000'
+    - '#38434C'
+    - '#A2A392'
+    - '#0276B5'
+    - '#C6286E'
+  rhythmicContrast: 1
+name: BasisPlus
