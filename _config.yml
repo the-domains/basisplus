@@ -1,4 +1,3 @@
-layout_spectrum: 1
 typography_spectrum: 0.8602151
 color:
   saturation: 0.4480205
@@ -11,4 +10,12 @@ color:
     - '#0276B5'
     - '#C6286E'
   rhythmicContrast: 1
-name: BasisPlus
+opengraph:
+  type: Rasmus Brems-Hulgaard
+  appId: facebook.com/hulgaard
+layout_spectrum: 1
+author:
+  name: Rasmus Brems-Hulgaard
+  email: rasmusbremshulgaard@gmail.com
+  url: rasmushulgaard.com
+name: Rasmus Brems-Hulgaard
